@@ -6,8 +6,6 @@ An end-to-end operations performance analytics project built to analyze producti
 
 The project transforms raw operational data into SQL-driven performance analysis and an interactive Power BI dashboard covering overall KPIs, monthly trends, team performance, shift performance, and employee-level analysis.
 
-The dashboard was built as an end-to-end Data Analytics project using Excel, PostgreSQL, SQL, and Power BI.
-
 ## Business Objective
 
 The objective of this project is to understand:
