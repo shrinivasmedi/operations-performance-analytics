@@ -107,3 +107,11 @@ Interactive Dashboard
 - Power BI dashboard
 - Dashboard PDF export
 - Project documentation
+- ## Dashboard Preview
+
+### Operations Overview
+
+![Operations Overview](screenshots/Operations_Overview.png)
+### Employee Performance
+
+![Employee Performance](screenshots/Employee_Performance.png)
