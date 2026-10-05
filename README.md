@@ -107,7 +107,8 @@ Interactive Dashboard
 - Power BI dashboard
 - Dashboard PDF export
 - Project documentation
-- ## Dashboard Preview
+
+## Dashboard Preview
 
 ### Operations Overview
 
